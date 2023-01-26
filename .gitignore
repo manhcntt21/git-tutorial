@@ -1,1 +1,4 @@
 # nothing
+
+logs/*
+!logs/important.log
