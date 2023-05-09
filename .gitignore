@@ -1,3 +1,4 @@
 # nothing
 logs/*
 !logs/important.log
+git-stash/example-ignore.txt
