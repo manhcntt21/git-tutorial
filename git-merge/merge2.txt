@@ -8,3 +8,6 @@ accessible
 accessible
 accessible
 a
+
+tao nhanh git-merge-2
+se tao nhanh tu nhưng chinh sua nay:
